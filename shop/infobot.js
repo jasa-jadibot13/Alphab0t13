@@ -33,7 +33,7 @@ return `ℒ⃝👾 *B O T  S T A T I S T I C*
 ♋ Tiktok : tiktok.com/@ikyy_ganzz913
 ♌ Telegram : t.me/kyy1205
 ♎ Ch Telegram : _BELUM TERSEDIA_
-♏ WhatsApp : bit.ly/zeeone_ofc
+♏ WhatsApp : https://bit.ly/3svaXyv
 `}
 
 exports.infobot = infobot
